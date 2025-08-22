@@ -22,6 +22,7 @@
   Tools: GitHub, VSCode, Figma, Flutter, Flask
 
 📩 Contact
+
   • LinkedIn: 
   Rebong, Rodjen P.
   
