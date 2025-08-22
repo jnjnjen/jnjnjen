@@ -22,5 +22,9 @@
   Tools: GitHub, VSCode, Figma, Flutter, Flask
 
 📩 Contact
-  LinkedIn: Rebong, Rodjen P.
-  Email: jenpunzalan12300@gmail.com
+  • LinkedIn: 
+  
+  Rebong, Rodjen P.
+  
+  • Email: 
+  jenpunzalan12300@gmail.com
